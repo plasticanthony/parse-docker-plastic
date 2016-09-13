@@ -12,4 +12,4 @@ PARSE_DASHBOARD_ALLOW_INSECURE_HTTP=1 \
 SERVER_URL=http://localhost:1337/parse \
 USER1=admin \
 USER1_PASSWORD=password \
-docker-compose up
+docker-compose up -d
