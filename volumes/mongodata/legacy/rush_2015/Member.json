@@ -1,0 +1,4173 @@
+{ "results": [
+	{
+        "capacity": 0,
+        "completed_cds": [],
+        "createdAt": "2015-09-29T14:08:19.125Z",
+        "email": "lawrencezietz240@gmail.com",
+        "firstname": "Lawrence",
+        "friends": [
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:28:54.681Z",
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "1nXfrOhKEB"
+                }
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:16:09.320Z",
+                "email": "agata@foryciarz.com",
+                "firstname": "Agata",
+                "lastname": "Foryciarz",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "1nXfrOhKEB"
+                }
+            }
+        ],
+        "lastname": "Zietz",
+        "objectId": "1nXfrOhKEB",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-09-29T15:03:42.011Z",
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.185Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-09-28T19:24:30.330Z",
+                "email": "eric.hayez@gmail.com",
+                "firstname": "Eric",
+                "lastname": "Hayes",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-02T05:40:06.339Z",
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-04T21:11:23.394Z",
+                "email": "lauren.a.richardsonn@gmail.com",
+                "firstname": "Lauren",
+                "lastname": "Richardson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-04T21:16:05.122Z",
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "kcwZSbfWQv",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-07T01:36:30.535Z",
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kldlMuEeNt",
+                    "5n6bNbCWtV",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-07T19:19:23.778Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:43:51.344Z",
+        "date_last_submitted": "2015-10-07T19:19:23.778Z",
+        "email": "ogeude29@gmail.com",
+        "firstname": "Oge",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "iikpeazu@gmail.com",
+                "firstname": "Ify",
+                "lastname": "Ikpeazu",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "el.ugonna@gmail.com",
+                "firstname": "Ugonna",
+                "lastname": "Nwabueze",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "sam.maeglin@gmail.com",
+                "firstname": "Sam",
+                "lastname": "Maeglin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-02T02:37:10.595Z",
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "5n6bNbCWtV"
+                }
+            }
+        ],
+        "lastname": "Ude",
+        "objectId": "3EhJDbwCry",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-10-07T13:02:33.683Z",
+                "email": "carolinasalazarcash@gmail.com",
+                "firstname": "Carolina",
+                "lastname": "Salazar",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.022Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "3LKOUC17fE"
+                ],
+                "date_last_completed": "2015-09-27T01:57:43.792Z",
+                "email": "avanthi.m.cole@gmail.com",
+                "firstname": "Avanthi",
+                "lastname": "Cole",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3LKOUC17fE"
+                ],
+                "date_last_completed": "2015-09-28T01:26:52.599Z",
+                "email": "vw1.valentina8@gmail.com",
+                "firstname": "Victoria",
+                "lastname": "Scott",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV",
+                    "3LKOUC17fE"
+                ],
+                "date_last_completed": "2015-10-02T19:52:16.981Z",
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kSGEshJdTB",
+                    "3LKOUC17fE"
+                ],
+                "date_last_completed": "2015-10-06T18:23:04.352Z",
+                "email": "j.natalia.chen@gmail.com",
+                "firstname": "Natalia",
+                "lastname": "Chen",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-27T14:24:24.058Z",
+        "date_last_submitted": "2015-10-06T18:23:04.352Z",
+        "email": "cpmcgrory@gmail.com",
+        "firstname": "Conor",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "xt5DyqVpe4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "9tRoCjmjnJ"
+                }
+            }
+        ],
+        "lastname": "McGrory",
+        "objectId": "3LKOUC17fE",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "peytonsmith979@gmail.com",
+                "firstname": "Peyton",
+                "lastname": "Smith",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-09-28T01:25:41.281Z",
+                "email": "wmmyat11@gmail.com",
+                "firstname": "Winny",
+                "lastname": "Myat",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-09-28T03:42:26.926Z",
+                "email": "kbberlin@hotmail.com",
+                "firstname": "Kyle",
+                "lastname": "Berlin",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "3LKOUC17fE"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "ryanwhitfield27@gmail.com",
+                "firstname": "Ryan",
+                "lastname": "Whitfield",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nehemiahteferi@gmail.com",
+                "firstname": "Nehemiah",
+                "lastname": "Teferi",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "3LKOUC17fE"
+                }
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kldlMuEeNt",
+                    "5n6bNbCWtV",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-07T19:19:23.778Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "3LKOUC17fE"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.131Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-09-26T23:57:43.177Z",
+                "email": "wangelizabeth4@gmail.com",
+                "firstname": "Beth",
+                "lastname": "Wang",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-09-27T00:09:58.848Z",
+                "email": "amaritz18@gmail.com",
+                "firstname": "Anna",
+                "lastname": "Maritz",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-09-30T18:23:29.823Z",
+                "email": "lauren.a.richardsonn@gmail.com",
+                "firstname": "Lauren",
+                "lastname": "Richardson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-03T21:48:39.367Z",
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-03T22:00:00.020Z",
+                "email": "el.ugonna@gmail.com",
+                "firstname": "Ugonna",
+                "lastname": "Nwabueze",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-05T03:48:53.727Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "5CRAKWB3Nr",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-05T04:00:06.939Z",
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-07T18:00:13.078Z",
+                "email": "m.kekoa@gmail.com",
+                "firstname": "Kekoa",
+                "lastname": "Morris",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-07T18:14:44.858Z",
+                "email": "tbiimoses@gmail.com",
+                "firstname": "Adetobi",
+                "lastname": "Moses",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ",
+                    "xt5DyqVpe4",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-08T18:49:37.186Z",
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-09T02:29:40.954Z",
+                "email": "joychen314@gmail.com",
+                "firstname": "Joy",
+                "lastname": "Chen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu",
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-09T02:38:26.487Z",
+                "email": "llegro42895@hotmail",
+                "firstname": "Luis",
+                "lastname": "Legro",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:42:24.217Z",
+        "date_last_submitted": "2015-10-09T02:38:26.487Z",
+        "email": "gamjohnston@gmail.com",
+        "firstname": "Guy",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "melanconchance@gmail.com",
+                "firstname": "Chance",
+                "lastname": "Melancon",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mpauchet@icloud.com",
+                "firstname": "Madeleine",
+                "lastname": "Pauchet",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "christina.c.sola@gmail.com",
+                "firstname": "Nina",
+                "lastname": "Sola",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "sophiafwilliams15@gmail.com",
+                "firstname": "Sophia",
+                "lastname": "Williams",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-26T18:17:22.540Z",
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-26T18:17:22.540Z",
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            }
+        ],
+        "lastname": "Johnston",
+        "objectId": "55fH46Ihxf",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-05T19:29:03.361Z",
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.172Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-09-29T02:02:20.824Z",
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-10-01T04:34:50.544Z",
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "pAMJgmz7nJ",
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-10-03T00:50:52.669Z",
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-10-03T01:08:43.271Z",
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ",
+                    "kcwZSbfWQv",
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-10-07T04:25:35.090Z",
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:45:12.592Z",
+        "date_last_submitted": "2015-10-07T04:25:35.090Z",
+        "email": "charliecarrbaker@gmail.com",
+        "firstname": "Charlie",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "amjadrobia@gmail.com",
+                "firstname": "Robia",
+                "lastname": "Amjad",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "evan.greg.bell@gmail.com",
+                "firstname": "Evan",
+                "lastname": "Bell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "jordorama22@aol.com",
+                "firstname": "Jordan",
+                "lastname": "Ingersoll",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "hope.kean@verizon.net",
+                "firstname": "Hope",
+                "lastname": "Kean",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wangelizabeth4@gmail.com",
+                "firstname": "Beth",
+                "lastname": "Wang",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "majesticmind117@gmail.com",
+                "firstname": "Chris",
+                "lastname": "Cross",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "GFVYCdK8mS"
+                }
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:38:33.605Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "GFVYCdK8mS"
+                }
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-24T00:15:29.722Z",
+                "email": "erinlynch.ehl@gmail.com",
+                "firstname": "Erin",
+                "lastname": "Lynch",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            },
+            {
+                "completed_cds": [
+                    "SmBf5on1pc",
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-05T03:16:13.719Z",
+                "email": "evan.greg.bell@gmail.com",
+                "firstname": "Evan",
+                "lastname": "Bell",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "5CRAKWB3Nr"
+                }
+            }
+        ],
+        "lastname": "Baker",
+        "objectId": "5CRAKWB3Nr",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "slcruz14@gmail.com",
+                "firstname": "Sergio",
+                "lastname": "Cruz",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV",
+                    "3LKOUC17fE"
+                ],
+                "date_last_completed": "2015-10-02T19:52:16.981Z",
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.131Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-09-29T15:03:42.011Z",
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-09-29T21:27:28.035Z",
+                "email": "abbyrvansoest@gmail.com",
+                "firstname": "Abby",
+                "lastname": "Van Soest",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-09-30T20:34:12.467Z",
+                "email": "reva.abrol@gmail.com",
+                "firstname": "Reva",
+                "lastname": "Abrol",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-09-30T22:57:23.507Z",
+                "email": "angelica.maria.vielma@gmail.com",
+                "firstname": "Angelica",
+                "lastname": "Vielma",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z",
+                    "z2iZWHONTb",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-05T04:48:11.063Z",
+                "email": "dev23h@gmail.com",
+                "firstname": "Devyn",
+                "lastname": "Holliday",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-06T18:41:09.653Z",
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kldlMuEeNt",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-06T21:29:02.324Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-07T14:42:49.736Z",
+                "email": "agata@foryciarz.com",
+                "firstname": "Agata",
+                "lastname": "Foryciarz",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-08T23:53:43.462Z",
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:41:12.233Z",
+        "date_last_submitted": "2015-10-08T23:53:43.462Z",
+        "email": "o.adechi@gmail.com",
+        "firstname": "Liv",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "kbberlin@hotmail.com",
+                "firstname": "Kyle",
+                "lastname": "Berlin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "sophiafwilliams15@gmail.com",
+                "firstname": "Sophia",
+                "lastname": "Williams",
+                "pending_member": null
+            }
+        ],
+        "lastname": "Adechi",
+        "objectId": "5n6bNbCWtV",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "3EhJDbwCry",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-04T18:28:38.431Z",
+                "email": "eric.hayez@gmail.com",
+                "firstname": "Eric",
+                "lastname": "Hayes",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.233Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-09-28T01:25:41.281Z",
+                "email": "wmmyat11@gmail.com",
+                "firstname": "Winny",
+                "lastname": "Myat",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-01T05:27:23.072Z",
+                "email": "majesticmind117@gmail.com",
+                "firstname": "Chris",
+                "lastname": "Cross",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr",
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-04T09:49:27.941Z",
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-04T22:49:09.088Z",
+                "email": "llegro42895@hotmail",
+                "firstname": "Luis",
+                "lastname": "Legro",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z",
+                    "poXrQxuYrn",
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-06T07:33:08.311Z",
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kSGEshJdTB",
+                    "3LKOUC17fE",
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-09T14:03:59.131Z",
+                "email": "j.natalia.chen@gmail.com",
+                "firstname": "Natalia",
+                "lastname": "Chen",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:45:31.922Z",
+        "date_last_submitted": "2015-10-09T14:03:59.131Z",
+        "email": "juliacbernstein@gmail.com",
+        "firstname": "Julia",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "christina.c.sola@gmail.com",
+                "firstname": "Nina",
+                "lastname": "Sola",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "sophiafwilliams15@gmail.com",
+                "firstname": "Sophia",
+                "lastname": "Williams",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nehemiahteferi@gmail.com",
+                "firstname": "Nehemiah",
+                "lastname": "Teferi",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            }
+        ],
+        "lastname": "Bernstein",
+        "objectId": "6NmejqZ4eu",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zdegiulio@gmail.com",
+                "firstname": "Zacharia",
+                "lastname": "Degiulio",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "ryanwhitfield27@gmail.com",
+                "firstname": "Ryan",
+                "lastname": "Whitfield",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:00.306Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ"
+                ],
+                "date_last_completed": "2015-09-30T03:56:00.696Z",
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ"
+                ],
+                "date_last_completed": "2015-10-03T01:58:43.343Z",
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "9tRoCjmjnJ"
+                ],
+                "date_last_completed": "2015-10-08T01:26:02.133Z",
+                "email": "wong_alastair@me.com",
+                "firstname": "Alastair",
+                "lastname": "Wong",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:41:30.109Z",
+        "date_last_submitted": "2015-10-08T01:26:02.133Z",
+        "email": "angiechiraz@gmail.com",
+        "firstname": "Angie",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mesho95@aol.com",
+                "firstname": "Mya",
+                "lastname": "Abousy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "iikpeazu@gmail.com",
+                "firstname": "Ify",
+                "lastname": "Ikpeazu",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "hope.kean@verizon.net",
+                "firstname": "Hope",
+                "lastname": "Kean",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "peytonsmith979@gmail.com",
+                "firstname": "Peyton",
+                "lastname": "Smith",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "vw1.valentina8@gmail.com",
+                "firstname": "Victoria",
+                "lastname": "Scott",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": null
+            }
+        ],
+        "lastname": "Chiraz",
+        "objectId": "9tRoCjmjnJ",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zdegiulio@gmail.com",
+                "firstname": "Zacharia",
+                "lastname": "Degiulio",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.131Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ"
+                ],
+                "date_last_completed": "2015-09-26T19:29:13.807Z",
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ"
+                ],
+                "date_last_completed": "2015-09-26T19:34:24.860Z",
+                "email": "sam.maeglin@gmail.com",
+                "firstname": "Sam",
+                "lastname": "Maeglin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn",
+                    "55fH46Ihxf",
+                    "ASabXj3jqQ"
+                ],
+                "date_last_completed": "2015-10-08T06:08:25.681Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "ASabXj3jqQ"
+                ],
+                "date_last_completed": "2015-10-08T06:28:19.407Z",
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4",
+                    "ASabXj3jqQ"
+                ],
+                "date_last_completed": "2015-10-08T06:54:37.032Z",
+                "email": "cljeppsen1@gmail.com",
+                "firstname": "Charlotte",
+                "lastname": "Jeppsen",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:45:50.909Z",
+        "date_last_submitted": "2015-10-08T06:54:37.032Z",
+        "email": "jdcase66@gmail.com",
+        "firstname": "JD",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "joychen314@gmail.com",
+                "firstname": "Joy",
+                "lastname": "Chen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            }
+        ],
+        "lastname": "Case",
+        "objectId": "ASabXj3jqQ",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "email": "carolinasalazarcash@gmail.com",
+                "firstname": "Carolina",
+                "lastname": "Salazar",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "5n6bNbCWtV"
+                ],
+                "date_last_completed": "2015-10-06T18:41:09.653Z",
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.177Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-09-25T19:47:25.154Z",
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-09-29T14:51:19.958Z",
+                "email": "mitch.hamburger@gmail.com",
+                "firstname": "Mitchell",
+                "lastname": "Hamburger",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-01T21:39:00.204Z",
+                "email": "bennettvictoralt@gmail.com",
+                "firstname": "Bennett",
+                "lastname": "Victor",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "SmBf5on1pc",
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-05T03:16:13.719Z",
+                "email": "evan.greg.bell@gmail.com",
+                "firstname": "Evan",
+                "lastname": "Bell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-07T16:57:14.334Z",
+                "email": "peytonsmith979@gmail.com",
+                "firstname": "Peyton",
+                "lastname": "Smith",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-09T00:13:09.432Z",
+                "email": "m.kekoa@gmail.com",
+                "firstname": "Kekoa",
+                "lastname": "Morris",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:44:43.275Z",
+        "date_last_submitted": "2015-10-09T00:13:09.432Z",
+        "email": "clashmango@gmail.com",
+        "firstname": "Claire",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "kbberlin@hotmail.com",
+                "firstname": "Kyle",
+                "lastname": "Berlin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "becca.kahn31@gmail.com",
+                "firstname": "Becca",
+                "lastname": "Kahn",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alissalopezserfozo@gmail.com",
+                "firstname": "Alissa",
+                "lastname": "Lopez",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mpauchet@icloud.com",
+                "firstname": "Madeleine",
+                "lastname": "Pauchet",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "llegro42895@hotmail",
+                "firstname": "Luis",
+                "lastname": "Legro",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "eric.hayez@gmail.com",
+                "firstname": "Eric",
+                "lastname": "Hayes",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "eglatham@gmail.com",
+                "firstname": "Emma",
+                "lastname": "Latham",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "BXD5r0f12R"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "BXD5r0f12R"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "tbiimoses@gmail.com",
+                "firstname": "Adetobi",
+                "lastname": "Moses",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "BXD5r0f12R"
+                }
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS",
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-08T20:17:08.881Z",
+                "email": "michele.zhou@gmail.com",
+                "firstname": "Michele",
+                "lastname": "Zhou",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "slcruz14@gmail.com",
+                "firstname": "Sergio",
+                "lastname": "Cruz",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "5CRAKWB3Nr"
+                }
+            }
+        ],
+        "lastname": "Ashmead",
+        "objectId": "BXD5r0f12R",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-02T16:40:45.223Z",
+                "email": "tabozeman@hotmail.com",
+                "firstname": "Tyler",
+                "lastname": "Bozeman",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "BXD5r0f12R"
+                }
+            }
+        ],
+        "updatedAt": "2015-12-14T10:28:06.879Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z"
+                ],
+                "date_last_completed": "2015-09-23T17:34:04.259Z",
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z"
+                ],
+                "date_last_completed": "2015-09-24T14:36:12.029Z",
+                "email": "dev23h@gmail.com",
+                "firstname": "Devyn",
+                "lastname": "Holliday",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:48:52.030Z",
+        "date_last_submitted": "2015-09-24T14:36:12.029Z",
+        "email": "harrisonwaldon@gmail.com",
+        "firstname": "Harrison",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            }
+        ],
+        "lastname": "Waldon",
+        "objectId": "EWlsIaZf5z",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "amjadrobia@gmail.com",
+                "firstname": "Robia",
+                "lastname": "Amjad",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "nehemiahteferi@gmail.com",
+                "firstname": "Nehemiah",
+                "lastname": "Teferi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "jmickus@princeton.edu",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "EWlsIaZf5z"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.026Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:16:09.320Z",
+                "email": "agata@foryciarz.com",
+                "firstname": "Agata",
+                "lastname": "Foryciarz",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:28:54.681Z",
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:49:45.383Z",
+                "email": "sdiressova@gmail.com",
+                "firstname": "Sara",
+                "lastname": "Diressova",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb",
+                    "kldlMuEeNt",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-04T02:54:31.281Z",
+                "email": "leilavc@gmail.com",
+                "firstname": "Leila",
+                "lastname": "Clark",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-04T02:55:19.431Z",
+                "email": "michele.zhou@gmail.com",
+                "firstname": "Michele",
+                "lastname": "Zhou",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-04T03:11:39.598Z",
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "5n6bNbCWtV",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-04T03:20:50.200Z",
+                "email": "reva.abrol@gmail.com",
+                "firstname": "Reva",
+                "lastname": "Abrol",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "kcwZSbfWQv",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-09T12:11:13.001Z",
+                "email": "mitch.hamburger@gmail.com",
+                "firstname": "Mitchell",
+                "lastname": "Hamburger",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "kcwZSbfWQv",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-09T12:11:26.753Z",
+                "email": "daniel.s.luzarraga@gmail.com",
+                "firstname": "Dan",
+                "lastname": "Luzarraga",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kldlMuEeNt",
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-10-09T12:11:40.612Z",
+                "email": "melanconchance@gmail.com",
+                "firstname": "Chance",
+                "lastname": "Melancon",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:46:36.104Z",
+        "date_last_submitted": "2015-10-09T12:11:40.612Z",
+        "email": "shhan313@gmail.com",
+        "firstname": "Sheon",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "christina.c.sola@gmail.com",
+                "firstname": "Nina",
+                "lastname": "Sola",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "llegro42895@hotmail",
+                "firstname": "Luis",
+                "lastname": "Legro",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "hope.kean@verizon.net",
+                "firstname": "Hope",
+                "lastname": "Kean",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "SmBf5on1pc"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "BXD5r0f12R"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "majesticmind117@gmail.com",
+                "firstname": "Chris",
+                "lastname": "Cross",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "poXrQxuYrn"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "eOOl5GK2aQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:38:33.605Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "GFVYCdK8mS"
+                }
+            }
+        ],
+        "lastname": "Han",
+        "objectId": "GFVYCdK8mS",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "email": "majesticmind117@gmail.com",
+                "firstname": "Chris",
+                "lastname": "Cross",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "GFVYCdK8mS"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "GFVYCdK8mS"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.191Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [],
+        "createdAt": "2015-08-29T11:42:50.997Z",
+        "date_last_submitted": null,
+        "email": "sheltie21@gmail.com",
+        "firstname": "Jordy",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "SZ9xTy0cAS"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "iikpeazu@gmail.com",
+                "firstname": "Ify",
+                "lastname": "Ikpeazu",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "SZ9xTy0cAS"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "jordorama22@aol.com",
+                "firstname": "Jordan",
+                "lastname": "Ingersoll",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "SZ9xTy0cAS"
+                }
+            }
+        ],
+        "lastname": "Lubkeman",
+        "objectId": "SZ9xTy0cAS",
+        "pending_rushees": [],
+        "updatedAt": "2015-10-09T14:04:01.076Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-03T20:09:43.258Z",
+                "email": "evan.greg.bell@gmail.com",
+                "firstname": "Evan",
+                "lastname": "Bell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ",
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-03T20:17:28.146Z",
+                "email": "alissalopezserfozo@gmail.com",
+                "firstname": "Alissa",
+                "lastname": "Lopez",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-03T20:25:50.305Z",
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "ASabXj3jqQ",
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-08T20:13:01.273Z",
+                "email": "allisondlight@gmail.com",
+                "firstname": "Allison",
+                "lastname": "Light",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS",
+                    "SmBf5on1pc"
+                ],
+                "date_last_completed": "2015-10-08T20:17:08.881Z",
+                "email": "michele.zhou@gmail.com",
+                "firstname": "Michele",
+                "lastname": "Zhou",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:48:06.805Z",
+        "date_last_submitted": "2015-10-08T20:17:08.881Z",
+        "email": "mathabanestan@gmail.com",
+        "firstname": "Stanley",
+        "friends": [
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-09-25T21:58:33.198Z",
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "pAMJgmz7nJ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-09-30T00:19:28.007Z",
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "z2iZWHONTb"
+                }
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:40:57.350Z",
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-30T01:51:23.338Z",
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "melanconchance@gmail.com",
+                "firstname": "Chance",
+                "lastname": "Melancon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kldlMuEeNt"
+                }
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-25T00:48:31.747Z",
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "eOOl5GK2aQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "9tRoCjmjnJ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ"
+                ],
+                "date_last_completed": "2015-09-30T03:56:00.696Z",
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:28:54.681Z",
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "1nXfrOhKEB"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "lauren.a.richardsonn@gmail.com",
+                "firstname": "Lauren",
+                "lastname": "Richardson",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:38:33.605Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            }
+        ],
+        "lastname": "Mathabane",
+        "objectId": "SmBf5on1pc",
+        "pending_rushees": [],
+        "updatedAt": "2015-10-09T14:04:01.084Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-09-24T02:37:05.098Z",
+                "email": "becca.kahn31@gmail.com",
+                "firstname": "Becca",
+                "lastname": "Kahn",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-09-25T21:58:33.198Z",
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-09-26T02:45:43.735Z",
+                "email": "cljeppsen1@gmail.com",
+                "firstname": "Charlotte",
+                "lastname": "Jeppsen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-10-02T06:02:29.769Z",
+                "email": "erinlynch.ehl@gmail.com",
+                "firstname": "Erin",
+                "lastname": "Lynch",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-10-03T04:51:31.510Z",
+                "email": "eric.he3@gmail.com",
+                "firstname": "Eric",
+                "lastname": "He",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-10-07T05:12:34.778Z",
+                "email": "bennettvictoralt@gmail.com",
+                "firstname": "Bennett",
+                "lastname": "Victor",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:47:11.417Z",
+        "date_last_submitted": "2015-10-07T05:12:34.778Z",
+        "email": "sydney.king.13@gmail.com",
+        "firstname": "Sydney",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mitch.hamburger@gmail.com",
+                "firstname": "Mitchell",
+                "lastname": "Hamburger",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-02T02:37:10.595Z",
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            }
+        ],
+        "lastname": "King",
+        "objectId": "dKDrhW55r4",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-02T20:29:01.974Z",
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.077Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-09-25T01:14:56.231Z",
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-09-26T18:39:54.534Z",
+                "email": "alissalopezserfozo@gmail.com",
+                "firstname": "Alissa",
+                "lastname": "Lopez",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-09-28T03:42:26.926Z",
+                "email": "kbberlin@hotmail.com",
+                "firstname": "Kyle",
+                "lastname": "Berlin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-02T02:37:10.595Z",
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-05T19:29:03.361Z",
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:43:15.701Z",
+        "date_last_submitted": "2015-10-05T19:29:03.361Z",
+        "email": "jwmetzger16@gmail.com",
+        "firstname": "Julia",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wangelizabeth4@gmail.com",
+                "firstname": "Beth",
+                "lastname": "Wang",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "55fH46Ihxf"
+                }
+            }
+        ],
+        "lastname": "Metzger",
+        "objectId": "eOOl5GK2aQ",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-04T22:49:09.088Z",
+                "email": "llegro42895@hotmail",
+                "firstname": "Luis",
+                "lastname": "Legro",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.087Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-09-30T00:15:30.129Z",
+                "email": "daniel.s.luzarraga@gmail.com",
+                "firstname": "Dan",
+                "lastname": "Luzarraga",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-09-30T00:19:28.007Z",
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-09-30T20:03:47.897Z",
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-02T20:29:01.974Z",
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ",
+                    "poXrQxuYrn",
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-03T23:55:55.940Z",
+                "email": "sam.maeglin@gmail.com",
+                "firstname": "Sam",
+                "lastname": "Maeglin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-05T01:43:45.966Z",
+                "email": "j.natalia.chen@gmail.com",
+                "firstname": "Natalia",
+                "lastname": "Chen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-06T21:46:13.192Z",
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kldlMuEeNt",
+                    "kSGEshJdTB"
+                ],
+                "date_last_completed": "2015-10-07T21:18:18.246Z",
+                "email": "browne0827@gmail.com",
+                "firstname": "Tasha",
+                "lastname": "Brown",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:48:25.879Z",
+        "date_last_submitted": "2015-10-07T21:18:18.246Z",
+        "email": "jenna.e.spitzer@gmail.com",
+        "firstname": "Jenna",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "amaritz18@gmail.com",
+                "firstname": "Anna",
+                "lastname": "Maritz",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kSGEshJdTB"
+                }
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-25T00:48:31.747Z",
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "eOOl5GK2aQ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-28T20:31:32.832Z",
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "3EhJDbwCry"
+                }
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-29T18:38:07.964Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "5n6bNbCWtV"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "9tRoCjmjnJ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS"
+                ],
+                "date_last_completed": "2015-09-29T10:16:09.320Z",
+                "email": "agata@foryciarz.com",
+                "firstname": "Agata",
+                "lastname": "Foryciarz",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "5n6bNbCWtV"
+                }
+            },
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr"
+                ],
+                "date_last_completed": "2015-10-01T04:34:50.544Z",
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "6NmejqZ4eu"
+                }
+            }
+        ],
+        "lastname": "Spitzer",
+        "objectId": "kSGEshJdTB",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "55fH46Ihxf"
+                ],
+                "date_last_completed": "2015-10-07T18:00:13.078Z",
+                "email": "m.kekoa@gmail.com",
+                "firstname": "Kekoa",
+                "lastname": "Morris",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.060Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-24T00:15:29.722Z",
+                "email": "erinlynch.ehl@gmail.com",
+                "firstname": "Erin",
+                "lastname": "Lynch",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-29T03:49:58.194Z",
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-29T18:38:07.964Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-29T18:39:52.410Z",
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-09-30T02:49:34.026Z",
+                "email": "wong_alastair@me.com",
+                "firstname": "Alastair",
+                "lastname": "Wong",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-01T02:05:21.567Z",
+                "email": "j.natalia.chen@gmail.com",
+                "firstname": "Natalia",
+                "lastname": "Chen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-01T19:35:32.471Z",
+                "email": "mitch.hamburger@gmail.com",
+                "firstname": "Mitchell",
+                "lastname": "Hamburger",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-02T19:08:00.121Z",
+                "email": "daniel.s.luzarraga@gmail.com",
+                "firstname": "Dan",
+                "lastname": "Luzarraga",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-03T20:33:33.092Z",
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-06T04:46:26.473Z",
+                "email": "angelica.maria.vielma@gmail.com",
+                "firstname": "Angelica",
+                "lastname": "Vielma",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-06T17:54:16.542Z",
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-07T03:33:39.737Z",
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kldlMuEeNt",
+                    "kcwZSbfWQv"
+                ],
+                "date_last_completed": "2015-10-08T03:02:46.984Z",
+                "email": "logan.j.blaine@gmail.com",
+                "firstname": "Logan",
+                "lastname": "Blaine",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-27T14:24:00.293Z",
+        "date_last_submitted": "2015-10-08T03:02:46.984Z",
+        "email": "sdercon93@gmail.com",
+        "firstname": "Sam",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "email": "tbiimoses@gmail.com",
+                "firstname": "Adetobi",
+                "lastname": "Moses",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-02T05:40:06.339Z",
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            }
+        ],
+        "lastname": "Dercon",
+        "objectId": "kcwZSbfWQv",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-01T05:27:23.072Z",
+                "email": "majesticmind117@gmail.com",
+                "firstname": "Chris",
+                "lastname": "Cross",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.187Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-03T20:57:26.774Z",
+                "email": "browne0827@gmail.com",
+                "firstname": "Tasha",
+                "lastname": "Brown",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-03T21:00:54.222Z",
+                "email": "melanconchance@gmail.com",
+                "firstname": "Chance",
+                "lastname": "Melancon",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-03T21:04:31.101Z",
+                "email": "leilavc@gmail.com",
+                "firstname": "Leila",
+                "lastname": "Clark",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-03T21:06:53.206Z",
+                "email": "ssrc@hotmail.co.uk",
+                "firstname": "Sabastian",
+                "lastname": "Cox",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "5CRAKWB3Nr",
+                    "55fH46Ihxf",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-08T02:11:38.575Z",
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "SmBf5on1pc",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-08T02:13:55.884Z",
+                "email": "nkrell12@gmail.com",
+                "firstname": "Nico",
+                "lastname": "Krell",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "pAMJgmz7nJ",
+                    "5CRAKWB3Nr",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-08T02:16:58.024Z",
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-08T02:18:30.585Z",
+                "email": "logan.j.blaine@gmail.com",
+                "firstname": "Logan",
+                "lastname": "Blaine",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb",
+                    "kldlMuEeNt"
+                ],
+                "date_last_completed": "2015-10-08T19:01:11.656Z",
+                "email": "carolinasalazarcash@gmail.com",
+                "firstname": "Carolina",
+                "lastname": "Salazar",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:47:43.832Z",
+        "date_last_submitted": "2015-10-08T19:01:11.656Z",
+        "email": "joslei1207005@gmail.com",
+        "firstname": "Josh",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alissalopezserfozo@gmail.com",
+                "firstname": "Alissa",
+                "lastname": "Lopez",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "eOOl5GK2aQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "pAMJgmz7nJ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mpauchet@icloud.com",
+                "firstname": "Madeleine",
+                "lastname": "Pauchet",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "z2iZWHONTb"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "xt5DyqVpe4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "lydia.weintraub@gmail.com",
+                "firstname": "Lydia",
+                "lastname": "Weintraub",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "9tRoCjmjnJ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "ASabXj3jqQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "xt5DyqVpe4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "cpavs96@aol.com",
+                "firstname": "Christan",
+                "lastname": "Pavlakos",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "poXrQxuYrn"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "eOOl5GK2aQ"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "becca.kahn31@gmail.com",
+                "firstname": "Becca",
+                "lastname": "Kahn",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "logan.j.blaine@gmail.com",
+                "firstname": "Logan",
+                "lastname": "Blaine",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kldlMuEeNt"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "carolinasalazarcash@gmail.com",
+                "firstname": "Carolina",
+                "lastname": "Salazar",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kldlMuEeNt"
+                }
+            }
+        ],
+        "lastname": "Leifer",
+        "objectId": "kldlMuEeNt",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-04T21:11:23.394Z",
+                "email": "lauren.a.richardsonn@gmail.com",
+                "firstname": "Lauren",
+                "lastname": "Richardson",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.029Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-26T18:17:22.540Z",
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-26T18:24:39.426Z",
+                "email": "jburt23@gmail.com",
+                "firstname": "Jeremy",
+                "lastname": "Burton",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-26T18:36:24.764Z",
+                "email": "el.ugonna@gmail.com",
+                "firstname": "Ugonna",
+                "lastname": "Nwabueze",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "BXD5r0f12R",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-09-30T14:10:05.138Z",
+                "email": "alexreblando@gmail.com",
+                "firstname": "Alex",
+                "lastname": "Reblando",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3LKOUC17fE",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-02T14:06:21.154Z",
+                "email": "avanthi.m.cole@gmail.com",
+                "firstname": "Avanthi",
+                "lastname": "Cole",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-04T21:50:01.971Z",
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "9tRoCjmjnJ",
+                    "GFVYCdK8mS",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-06T00:40:15.687Z",
+                "email": "oliviawicki@yahoo.com",
+                "firstname": "Olivia",
+                "lastname": "Wicki",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "poXrQxuYrn",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-06T00:46:22.996Z",
+                "email": "wangelizabeth4@gmail.com",
+                "firstname": "Beth",
+                "lastname": "Wang",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-08T00:13:27.235Z",
+                "email": "tabozeman@hotmail.com",
+                "firstname": "Tyler",
+                "lastname": "Bozeman",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:46:14.574Z",
+        "date_last_submitted": "2015-10-08T00:13:27.235Z",
+        "email": "hdavinroy@gmail.com",
+        "firstname": "Hannah",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zaneaf@gmail.com",
+                "firstname": "Zane",
+                "lastname": "Friedkin",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kcwZSbfWQv"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "zdegiulio@gmail.com",
+                "firstname": "Zacharia",
+                "lastname": "Degiulio",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "9tRoCjmjnJ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-26T02:28:22.885Z",
+                "email": "jordorama22@aol.com",
+                "firstname": "Jordan",
+                "lastname": "Ingersoll",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-25T00:37:09.274Z",
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "pAMJgmz7nJ"
+                }
+            }
+        ],
+        "lastname": "Davinroy",
+        "objectId": "pAMJgmz7nJ",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "BXD5r0f12R"
+                ],
+                "date_last_completed": "2015-10-07T16:57:14.334Z",
+                "email": "peytonsmith979@gmail.com",
+                "firstname": "Peyton",
+                "lastname": "Smith",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "pAMJgmz7nJ"
+                }
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4"
+                ],
+                "date_last_completed": "2015-09-26T02:45:43.735Z",
+                "email": "cljeppsen1@gmail.com",
+                "firstname": "Charlotte",
+                "lastname": "Jeppsen",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "pAMJgmz7nJ"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.127Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-24T14:43:56.684Z",
+                "email": "cpavs96@aol.com",
+                "firstname": "Christan",
+                "lastname": "Pavlakos",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-25T18:54:07.809Z",
+                "email": "mo.odujinrin@gmail.com",
+                "firstname": "Moraiyo",
+                "lastname": "Odujinrin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-25T19:35:42.423Z",
+                "email": "joychen314@gmail.com",
+                "firstname": "Joy",
+                "lastname": "Chen",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:38:33.605Z",
+                "email": "justinasm21@gmail.com",
+                "firstname": "Justinas",
+                "lastname": "Mickus",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-09-27T22:40:57.350Z",
+                "email": "jaredbhopper@gmail.com",
+                "firstname": "Jared",
+                "lastname": "Hopper",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-01T17:00:53.131Z",
+                "email": "wangelizabeth4@gmail.com",
+                "firstname": "Beth",
+                "lastname": "Wang",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-02T16:39:46.218Z",
+                "email": "sam.maeglin@gmail.com",
+                "firstname": "Sam",
+                "lastname": "Maeglin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-02T16:40:45.223Z",
+                "email": "tabozeman@hotmail.com",
+                "firstname": "Tyler",
+                "lastname": "Bozeman",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV",
+                    "3LKOUC17fE",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-05T19:10:59.412Z",
+                "email": "alexander.fish5@gmail.com",
+                "firstname": "Alexander",
+                "lastname": "Fish",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kcwZSbfWQv",
+                    "dKDrhW55r4",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-06T02:35:17.455Z",
+                "email": "erinlynch.ehl@gmail.com",
+                "firstname": "Erin",
+                "lastname": "Lynch",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3LKOUC17fE",
+                    "xt5DyqVpe4",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-07T00:29:55.765Z",
+                "email": "vw1.valentina8@gmail.com",
+                "firstname": "Victoria",
+                "lastname": "Scott",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3LKOUC17fE",
+                    "pAMJgmz7nJ",
+                    "poXrQxuYrn"
+                ],
+                "date_last_completed": "2015-10-08T13:26:46.317Z",
+                "email": "avanthi.m.cole@gmail.com",
+                "firstname": "Avanthi",
+                "lastname": "Cole",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-27T14:23:27.488Z",
+        "date_last_submitted": "2015-10-08T13:26:46.317Z",
+        "email": "aubree.andres@gmail.com",
+        "firstname": "Aubree",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "ali.aparicio@yahoo.com",
+                "firstname": "Alex",
+                "lastname": "Aparicio",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "kbberlin@hotmail.com",
+                "firstname": "Kyle",
+                "lastname": "Berlin",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "becca.kahn31@gmail.com",
+                "firstname": "Becca",
+                "lastname": "Kahn",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "skunitzlevy@gmail.com",
+                "firstname": "Sammy",
+                "lastname": "Kunitz-Levy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "daniel.s.luzarraga@gmail.com",
+                "firstname": "Dan",
+                "lastname": "Luzarraga",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alissalopezserfozo@gmail.com",
+                "firstname": "Alissa",
+                "lastname": "Lopez",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "talya.nevins@gmail.com",
+                "firstname": "Talya",
+                "lastname": "Nevins",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mpauchet@icloud.com",
+                "firstname": "Madeleine",
+                "lastname": "Pauchet",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "peytonrmcelroy@gmail.com",
+                "firstname": "Peyton",
+                "lastname": "Mcelroy",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "eric.hayez@gmail.com",
+                "firstname": "Eric",
+                "lastname": "Hayes",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "3EhJDbwCry"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "xt5DyqVpe4"
+                }
+            },
+            {
+                "completed_cds": [],
+                "email": "eglatham@gmail.com",
+                "firstname": "Emma",
+                "lastname": "Latham",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "dKDrhW55r4"
+                }
+            }
+        ],
+        "lastname": "Andres",
+        "objectId": "poXrQxuYrn",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-06T14:38:56.678Z",
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "poXrQxuYrn"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.135Z"
+    },
+	{
+        "capacity": 3,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-25T00:48:31.747Z",
+                "email": "ashwinprasanna1@gmail.com",
+                "firstname": "Ashwin",
+                "lastname": "Prasanna",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-28T01:57:03.243Z",
+                "email": "reva.abrol@gmail.com",
+                "firstname": "Reva",
+                "lastname": "Abrol",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-28T20:31:32.832Z",
+                "email": "delaney.thull@gmail.com",
+                "firstname": "Delaney",
+                "lastname": "Thull",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-09-30T01:51:23.338Z",
+                "email": "aclegaspiv@gmail.com",
+                "firstname": "Camila",
+                "lastname": "Legaspi",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3LKOUC17fE",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-01T19:33:31.604Z",
+                "email": "vw1.valentina8@gmail.com",
+                "firstname": "Victoria",
+                "lastname": "Scott",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "3EhJDbwCry",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-04T18:28:38.431Z",
+                "email": "eric.hayez@gmail.com",
+                "firstname": "Eric",
+                "lastname": "Hayes",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5n6bNbCWtV",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-04T21:22:24.159Z",
+                "email": "abbyrvansoest@gmail.com",
+                "firstname": "Abby",
+                "lastname": "Van Soest",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "ASabXj3jqQ",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-04T21:39:59.864Z",
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "GFVYCdK8mS",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-06T14:38:56.678Z",
+                "email": "samuelkdavies@hotmail.com",
+                "firstname": "Samuel",
+                "lastname": "Davies",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-07T21:16:49.117Z",
+                "email": "tbiimoses@gmail.com",
+                "firstname": "Adetobi",
+                "lastname": "Moses",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-08T18:58:12.589Z",
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "pAMJgmz7nJ",
+                    "55fH46Ihxf",
+                    "xt5DyqVpe4"
+                ],
+                "date_last_completed": "2015-10-08T23:47:38.323Z",
+                "email": "el.ugonna@gmail.com",
+                "firstname": "Ugonna",
+                "lastname": "Nwabueze",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:41:48.209Z",
+        "date_last_submitted": "2015-10-08T23:47:38.323Z",
+        "email": "gyarke@gmail.com",
+        "firstname": "Lovia",
+        "friends": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "wilglorytanjong@gmail.com",
+                "firstname": "Wilglory",
+                "lastname": "Tanjong",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "kSGEshJdTB"
+                }
+            },
+            {
+                "completed_cds": [
+                    "eOOl5GK2aQ"
+                ],
+                "date_last_completed": "2015-10-02T02:37:10.595Z",
+                "email": "Anna.Rose.Simon@gmail.com",
+                "firstname": "Amina",
+                "lastname": "Simon",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "xt5DyqVpe4"
+                }
+            }
+        ],
+        "lastname": "Gyarkye",
+        "objectId": "xt5DyqVpe4",
+        "pending_rushees": [
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr",
+                    "6NmejqZ4eu"
+                ],
+                "date_last_completed": "2015-10-04T09:49:27.941Z",
+                "email": "rozalieczesana@gmail.com",
+                "firstname": "Rosalie",
+                "lastname": "Czesana",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "5CRAKWB3Nr",
+                    "3EhJDbwCry"
+                ],
+                "date_last_completed": "2015-10-04T21:16:05.122Z",
+                "email": "max@salwen.org",
+                "firstname": "Max",
+                "lastname": "Stahl",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "dKDrhW55r4",
+                    "pAMJgmz7nJ"
+                ],
+                "date_last_completed": "2015-10-04T21:50:01.971Z",
+                "email": "kabbasazhar@gmail.com",
+                "firstname": "Kabbas",
+                "lastname": "Azhar",
+                "pending_member": null
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.077Z"
+    },
+	{
+        "capacity": 0,
+        "completed_cds": [
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-25T00:37:09.274Z",
+                "email": "alwrobinson@hotmail.com",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-26T02:17:43.030Z",
+                "email": "mpauchet@icloud.com",
+                "firstname": "Madeleine",
+                "lastname": "Pauchet",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-26T02:27:53.208Z",
+                "email": "leilavc@gmail.com",
+                "firstname": "Leila",
+                "lastname": "Clark",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-26T02:28:22.885Z",
+                "email": "jordorama22@aol.com",
+                "firstname": "Jordan",
+                "lastname": "Ingersoll",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "EWlsIaZf5z",
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-09-30T03:17:26.657Z",
+                "email": "dev23h@gmail.com",
+                "firstname": "Devyn",
+                "lastname": "Holliday",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "55fH46Ihxf",
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-10-06T19:08:08.302Z",
+                "email": "amaritz18@gmail.com",
+                "firstname": "Anna",
+                "lastname": "Maritz",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "kSGEshJdTB",
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-10-06T19:10:55.438Z",
+                "email": "mschwartzbolef@gmail.com",
+                "firstname": "Miranda",
+                "lastname": "Bolef",
+                "pending_member": null
+            },
+            {
+                "completed_cds": [
+                    "z2iZWHONTb"
+                ],
+                "date_last_completed": "2015-10-07T13:02:33.683Z",
+                "email": "carolinasalazarcash@gmail.com",
+                "firstname": "Carolina",
+                "lastname": "Salazar",
+                "pending_member": null
+            }
+        ],
+        "createdAt": "2015-08-29T11:42:06.165Z",
+        "date_last_submitted": "2015-10-07T13:02:33.683Z",
+        "email": "hummel.ben@gmail.com",
+        "firstname": "Ben",
+        "friends": [],
+        "lastname": "Hummel",
+        "objectId": "z2iZWHONTb",
+        "pending_rushees": [
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "dina.dipo@gmail.com",
+                "firstname": "Dipo",
+                "lastname": "Dina",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "z2iZWHONTb"
+                }
+            },
+            {
+                "completed_cds": [],
+                "date_last_completed": null,
+                "email": "amjadrobia@gmail.com",
+                "firstname": "Robia",
+                "lastname": "Amjad",
+                "pending_member": {
+                    "__type": "Pointer",
+                    "className": "Member",
+                    "objectId": "z2iZWHONTb"
+                }
+            }
+        ],
+        "updatedAt": "2015-10-09T14:04:01.119Z"
+    }
+] }

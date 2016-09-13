@@ -1,0 +1,1017 @@
+[
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "BXD5r0f12R"
+    ],
+    "createdAt": "2015-10-02T20:31:20.241Z",
+    "date_last_completed": "2015-10-09T00:13:09.432Z",
+    "email": "m.kekoa@gmail.com",
+    "firstname": "Kekoa",
+    "lastname": "Morris",
+    "objectId": "07XaowMRwB",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.972Z"
+  },
+  {
+    "completed_cds": [
+      "eOOl5GK2aQ"
+    ],
+    "createdAt": "2015-09-19T17:00:43.376Z",
+    "date_last_completed": "2015-09-28T03:42:26.926Z",
+    "email": "kbberlin@hotmail.com",
+    "firstname": "Kyle",
+    "lastname": "Berlin",
+    "objectId": "1YM0dei3yo",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "3LKOUC17fE"
+    },
+    "updatedAt": "2015-10-09T14:04:00.410Z"
+  },
+  {
+    "completed_cds": [
+      "EWlsIaZf5z",
+      "poXrQxuYrn",
+      "6NmejqZ4eu"
+    ],
+    "createdAt": "2015-09-19T17:00:43.400Z",
+    "date_last_completed": "2015-10-06T07:33:08.311Z",
+    "email": "jaredbhopper@gmail.com",
+    "firstname": "Jared",
+    "lastname": "Hopper",
+    "objectId": "2IjCocxTzn",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.560Z"
+  },
+  {
+    "completed_cds": [
+      "GFVYCdK8mS",
+      "5n6bNbCWtV"
+    ],
+    "createdAt": "2015-09-19T17:00:43.392Z",
+    "date_last_completed": "2015-10-07T14:42:49.736Z",
+    "email": "agata@foryciarz.com",
+    "firstname": "Agata",
+    "lastname": "Foryciarz",
+    "objectId": "2Zpr3HS1m6",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.523Z"
+  },
+  {
+    "completed_cds": [
+      "eOOl5GK2aQ",
+      "5n6bNbCWtV"
+    ],
+    "createdAt": "2015-09-24T18:06:29.774Z",
+    "date_last_completed": "2015-10-08T23:53:43.462Z",
+    "email": "Anna.Rose.Simon@gmail.com",
+    "firstname": "Amina",
+    "lastname": "Simon",
+    "objectId": "3CyUGtpVq5",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.907Z"
+  },
+  {
+    "completed_cds": [
+      "kSGEshJdTB",
+      "z2iZWHONTb"
+    ],
+    "createdAt": "2015-09-19T17:00:43.377Z",
+    "date_last_completed": "2015-10-06T19:10:55.438Z",
+    "email": "mschwartzbolef@gmail.com",
+    "firstname": "Miranda",
+    "lastname": "Bolef",
+    "objectId": "4u0q4UrYDd",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.365Z"
+  },
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "ASabXj3jqQ",
+      "SmBf5on1pc"
+    ],
+    "createdAt": "2015-09-28T00:24:50.609Z",
+    "date_last_completed": "2015-10-08T20:13:01.273Z",
+    "email": "allisondlight@gmail.com",
+    "firstname": "Allison",
+    "lastname": "Light",
+    "objectId": "4ztTSRITYT",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.974Z"
+  },
+  {
+    "completed_cds": [
+      "6NmejqZ4eu"
+    ],
+    "createdAt": "2015-09-21T13:24:57.604Z",
+    "date_last_completed": "2015-09-28T01:25:41.281Z",
+    "email": "wmmyat11@gmail.com",
+    "firstname": "Winny",
+    "lastname": "Myat",
+    "objectId": "58EqI4xBtK",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "3LKOUC17fE"
+    },
+    "updatedAt": "2015-10-09T14:04:00.916Z"
+  },
+  {
+    "completed_cds": [
+      "kldlMuEeNt",
+      "GFVYCdK8mS"
+    ],
+    "createdAt": "2015-09-19T17:00:43.417Z",
+    "date_last_completed": "2015-10-09T12:11:40.612Z",
+    "email": "melanconchance@gmail.com",
+    "firstname": "Chance",
+    "lastname": "Melancon",
+    "objectId": "5Y5mC3kqrq",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.608Z"
+  },
+  {
+    "completed_cds": [
+      "kSGEshJdTB",
+      "kcwZSbfWQv",
+      "GFVYCdK8mS"
+    ],
+    "createdAt": "2015-09-19T17:00:43.413Z",
+    "date_last_completed": "2015-10-09T12:11:26.753Z",
+    "email": "daniel.s.luzarraga@gmail.com",
+    "firstname": "Dan",
+    "lastname": "Luzarraga",
+    "objectId": "5uZh6XmBuJ",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.591Z"
+  },
+  {
+    "completed_cds": [
+      "ASabXj3jqQ",
+      "xt5DyqVpe4",
+      "55fH46Ihxf"
+    ],
+    "createdAt": "2015-09-19T17:00:43.389Z",
+    "date_last_completed": "2015-10-08T18:49:37.186Z",
+    "email": "dina.dipo@gmail.com",
+    "firstname": "Dipo",
+    "lastname": "Dina",
+    "objectId": "80YfRKQRV0",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.482Z"
+  },
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "poXrQxuYrn",
+      "pAMJgmz7nJ"
+    ],
+    "createdAt": "2015-09-19T21:18:42.193Z",
+    "date_last_completed": "2015-10-06T00:46:22.996Z",
+    "email": "wangelizabeth4@gmail.com",
+    "firstname": "Beth",
+    "lastname": "Wang",
+    "objectId": "A6U5bDZZxL",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.843Z"
+  },
+  {
+    "completed_cds": [
+      "z2iZWHONTb",
+      "xt5DyqVpe4"
+    ],
+    "createdAt": "2015-09-19T17:00:43.427Z",
+    "date_last_completed": "2015-10-08T18:58:12.589Z",
+    "email": "alwrobinson@hotmail.com",
+    "firstname": "Alexander",
+    "lastname": "Robinson",
+    "objectId": "AWFFDvfOWa",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.842Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "5CRAKWB3Nr",
+      "55fH46Ihxf",
+      "kldlMuEeNt"
+    ],
+    "createdAt": "2015-09-19T17:00:43.372Z",
+    "date_last_completed": "2015-10-08T02:11:38.575Z",
+    "email": "ali.aparicio@yahoo.com",
+    "firstname": "Alex",
+    "lastname": "Aparicio",
+    "objectId": "Acw94Mc4T5",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.404Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "kSGEshJdTB",
+      "3LKOUC17fE",
+      "6NmejqZ4eu"
+    ],
+    "createdAt": "2015-09-25T13:53:06.027Z",
+    "date_last_completed": "2015-10-09T14:03:59.131Z",
+    "email": "j.natalia.chen@gmail.com",
+    "firstname": "Natalia",
+    "lastname": "Chen",
+    "objectId": "BZHYTI7cPy",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.183Z"
+  },
+  {
+    "completed_cds": [
+      "EWlsIaZf5z",
+      "z2iZWHONTb",
+      "5n6bNbCWtV"
+    ],
+    "createdAt": "2015-09-19T17:00:43.399Z",
+    "date_last_completed": "2015-10-05T04:48:11.063Z",
+    "email": "dev23h@gmail.com",
+    "firstname": "Devyn",
+    "lastname": "Holliday",
+    "objectId": "BfK1tJcREr",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.530Z"
+  },
+  {
+    "completed_cds": [
+      "3EhJDbwCry",
+      "xt5DyqVpe4"
+    ],
+    "createdAt": "2015-09-19T17:00:43.398Z",
+    "date_last_completed": "2015-10-04T18:28:38.431Z",
+    "email": "eric.hayez@gmail.com",
+    "firstname": "Eric",
+    "lastname": "Hayes",
+    "objectId": "CVtbhwZHWG",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "5n6bNbCWtV"
+    },
+    "updatedAt": "2015-10-09T14:04:00.508Z"
+  },
+  {
+    "completed_cds": [
+      "xt5DyqVpe4",
+      "kcwZSbfWQv",
+      "3EhJDbwCry"
+    ],
+    "createdAt": "2015-09-19T17:00:43.410Z",
+    "date_last_completed": "2015-10-07T01:36:30.535Z",
+    "email": "aclegaspiv@gmail.com",
+    "firstname": "Camila",
+    "lastname": "Legaspi",
+    "objectId": "CksZqHste9",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.564Z"
+  },
+  {
+    "completed_cds": [
+      "3LKOUC17fE",
+      "xt5DyqVpe4",
+      "poXrQxuYrn"
+    ],
+    "createdAt": "2015-09-19T17:00:43.428Z",
+    "date_last_completed": "2015-10-07T00:29:55.765Z",
+    "email": "vw1.valentina8@gmail.com",
+    "firstname": "Victoria",
+    "lastname": "Scott",
+    "objectId": "DhbcvjSVjN",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.683Z"
+  },
+  {
+    "completed_cds": [
+      "eOOl5GK2aQ",
+      "SmBf5on1pc"
+    ],
+    "createdAt": "2015-09-19T17:00:43.411Z",
+    "date_last_completed": "2015-10-03T20:17:28.146Z",
+    "email": "alissalopezserfozo@gmail.com",
+    "firstname": "Alissa",
+    "lastname": "Lopez",
+    "objectId": "ERBhsAUqAm",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "3EhJDbwCry"
+    },
+    "updatedAt": "2015-10-09T14:04:00.676Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "kSGEshJdTB"
+    ],
+    "createdAt": "2015-09-19T17:00:43.393Z",
+    "date_last_completed": "2015-10-06T21:46:13.192Z",
+    "email": "zaneaf@gmail.com",
+    "firstname": "Zane",
+    "lastname": "Friedkin",
+    "objectId": "FsH7g9FHG9",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.519Z"
+  },
+  {
+    "completed_cds": [
+      "SmBf5on1pc",
+      "BXD5r0f12R"
+    ],
+    "createdAt": "2015-09-19T17:00:43.374Z",
+    "date_last_completed": "2015-10-05T03:16:13.719Z",
+    "email": "evan.greg.bell@gmail.com",
+    "firstname": "Evan",
+    "lastname": "Bell",
+    "objectId": "GnSQLHo5ts",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.427Z"
+  },
+  {
+    "completed_cds": [
+      "6NmejqZ4eu"
+    ],
+    "createdAt": "2015-09-21T21:08:15.562Z",
+    "date_last_completed": "2015-10-01T05:27:23.072Z",
+    "email": "majesticmind117@gmail.com",
+    "firstname": "Chris",
+    "lastname": "Cross",
+    "objectId": "GuyA3bzXdB",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "kcwZSbfWQv"
+    },
+    "updatedAt": "2015-10-09T14:04:00.858Z"
+  },
+  {
+    "completed_cds": [],
+    "createdAt": "2015-10-02T19:14:14.431Z",
+    "email": "ryanwhitfield27@gmail.com",
+    "firstname": "Ryan",
+    "lastname": "Whitfield",
+    "objectId": "Hlw3r8TPoc",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "6NmejqZ4eu"
+    },
+    "updatedAt": "2015-10-09T14:04:00.970Z"
+  },
+  {
+    "completed_cds": [
+      "poXrQxuYrn",
+      "55fH46Ihxf",
+      "ASabXj3jqQ"
+    ],
+    "createdAt": "2015-09-24T03:56:40.467Z",
+    "date_last_completed": "2015-10-08T06:08:25.681Z",
+    "email": "justinasm21@gmail.com",
+    "firstname": "Justinas",
+    "lastname": "Mickus",
+    "objectId": "Itd5BB6rVX",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.891Z"
+  },
+  {
+    "completed_cds": [
+      "BXD5r0f12R",
+      "kcwZSbfWQv",
+      "GFVYCdK8mS"
+    ],
+    "createdAt": "2015-09-19T17:00:43.396Z",
+    "date_last_completed": "2015-10-09T12:11:13.001Z",
+    "email": "mitch.hamburger@gmail.com",
+    "firstname": "Mitchell",
+    "lastname": "Hamburger",
+    "objectId": "J91jseEdNF",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.543Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "9tRoCjmjnJ"
+    ],
+    "createdAt": "2015-09-21T00:54:21.029Z",
+    "date_last_completed": "2015-10-08T01:26:02.133Z",
+    "email": "wong_alastair@me.com",
+    "firstname": "Alastair",
+    "lastname": "Wong",
+    "objectId": "JqSoFinIRg",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.801Z"
+  },
+  {
+    "completed_cds": [],
+    "createdAt": "2015-09-19T17:00:43.371Z",
+    "date_last_completed": null,
+    "email": "amjadrobia@gmail.com",
+    "firstname": "Robia",
+    "lastname": "Amjad",
+    "objectId": "KJcMCis9oa",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "z2iZWHONTb"
+    },
+    "updatedAt": "2015-10-09T14:04:00.360Z"
+  },
+  {
+    "completed_cds": [
+      "poXrQxuYrn",
+      "pAMJgmz7nJ"
+    ],
+    "createdAt": "2015-09-25T13:48:51.304Z",
+    "date_last_completed": "2015-10-08T00:13:27.235Z",
+    "email": "tabozeman@hotmail.com",
+    "firstname": "Tyler",
+    "lastname": "Bozeman",
+    "objectId": "L12PJ13Tfn",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.911Z"
+  },
+  {
+    "completed_cds": [
+      "dKDrhW55r4",
+      "ASabXj3jqQ"
+    ],
+    "createdAt": "2015-09-19T17:00:43.404Z",
+    "date_last_completed": "2015-10-08T06:54:37.032Z",
+    "email": "cljeppsen1@gmail.com",
+    "firstname": "Charlotte",
+    "lastname": "Jeppsen",
+    "objectId": "Lnn2oqod5k",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.555Z"
+  },
+  {
+    "completed_cds": [
+      "dKDrhW55r4",
+      "pAMJgmz7nJ"
+    ],
+    "createdAt": "2015-09-19T17:00:43.373Z",
+    "date_last_completed": "2015-10-04T21:50:01.971Z",
+    "email": "kabbasazhar@gmail.com",
+    "firstname": "Kabbas",
+    "lastname": "Azhar",
+    "objectId": "Neh3UDlKRg",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "xt5DyqVpe4"
+    },
+    "updatedAt": "2015-10-09T14:04:00.375Z"
+  },
+  {
+    "completed_cds": [
+      "ASabXj3jqQ",
+      "poXrQxuYrn",
+      "kSGEshJdTB"
+    ],
+    "createdAt": "2015-09-19T18:40:51.755Z",
+    "date_last_completed": "2015-10-03T23:55:55.940Z",
+    "email": "sam.maeglin@gmail.com",
+    "firstname": "Sam",
+    "lastname": "Maeglin",
+    "objectId": "OFZApgScL1",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.741Z"
+  },
+  {
+    "completed_cds": [
+      "5CRAKWB3Nr",
+      "3EhJDbwCry"
+    ],
+    "createdAt": "2015-09-19T17:00:43.431Z",
+    "date_last_completed": "2015-10-04T21:16:05.122Z",
+    "email": "max@salwen.org",
+    "firstname": "Max",
+    "lastname": "Stahl",
+    "objectId": "PemcUzabRO",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "xt5DyqVpe4"
+    },
+    "updatedAt": "2015-10-09T14:04:00.693Z"
+  },
+  {
+    "completed_cds": [
+      "BXD5r0f12R",
+      "pAMJgmz7nJ",
+      "5CRAKWB3Nr",
+      "kldlMuEeNt"
+    ],
+    "createdAt": "2015-09-19T17:00:43.425Z",
+    "date_last_completed": "2015-10-08T02:16:58.024Z",
+    "email": "alexreblando@gmail.com",
+    "firstname": "Alex",
+    "lastname": "Reblando",
+    "objectId": "PpB1kGxU6V",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.771Z"
+  },
+  {
+    "completed_cds": [
+      "BXD5r0f12R",
+      "dKDrhW55r4"
+    ],
+    "createdAt": "2015-09-28T00:24:17.353Z",
+    "date_last_completed": "2015-10-07T05:12:34.778Z",
+    "email": "bennettvictoralt@gmail.com",
+    "firstname": "Bennett",
+    "lastname": "Victor",
+    "objectId": "PxYwJDolW6",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.939Z"
+  },
+  {
+    "completed_cds": [
+      "xt5DyqVpe4",
+      "3EhJDbwCry"
+    ],
+    "createdAt": "2015-09-24T00:26:26.851Z",
+    "date_last_completed": "2015-10-02T05:40:06.339Z",
+    "email": "delaney.thull@gmail.com",
+    "firstname": "Delaney",
+    "lastname": "Thull",
+    "objectId": "QrHVQPlgAt",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "5CRAKWB3Nr"
+    },
+    "updatedAt": "2015-10-09T14:04:00.875Z"
+  },
+  {
+    "completed_cds": [
+      "GFVYCdK8mS",
+      "SmBf5on1pc"
+    ],
+    "createdAt": "2015-09-28T00:23:55.065Z",
+    "date_last_completed": "2015-10-08T20:17:08.881Z",
+    "email": "michele.zhou@gmail.com",
+    "firstname": "Michele",
+    "lastname": "Zhou",
+    "objectId": "RLETfJcJ0C",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.924Z"
+  },
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "3EhJDbwCry"
+    ],
+    "createdAt": "2015-09-21T00:53:22.284Z",
+    "date_last_completed": "2015-10-04T21:11:23.394Z",
+    "email": "lauren.a.richardsonn@gmail.com",
+    "firstname": "Lauren",
+    "lastname": "Richardson",
+    "objectId": "Rv1a36NWKZ",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "kldlMuEeNt"
+    },
+    "updatedAt": "2015-10-09T14:04:00.781Z"
+  },
+  {
+    "completed_cds": [],
+    "createdAt": "2015-09-19T17:00:43.386Z",
+    "date_last_completed": null,
+    "email": "slcruz14@gmail.com",
+    "firstname": "Sergio",
+    "lastname": "Cruz",
+    "objectId": "SE8YnGsCqN",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "5CRAKWB3Nr"
+    },
+    "updatedAt": "2015-10-09T14:04:00.474Z"
+  },
+  {
+    "completed_cds": [
+      "kldlMuEeNt",
+      "kSGEshJdTB"
+    ],
+    "createdAt": "2015-09-19T17:00:43.378Z",
+    "date_last_completed": "2015-10-07T21:18:18.246Z",
+    "email": "browne0827@gmail.com",
+    "firstname": "Tasha",
+    "lastname": "Brown",
+    "objectId": "SqB0FD2Y4N",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.480Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "kldlMuEeNt",
+      "5n6bNbCWtV",
+      "3EhJDbwCry"
+    ],
+    "createdAt": "2015-09-22T17:41:31.694Z",
+    "date_last_completed": "2015-10-07T19:19:23.778Z",
+    "email": "ssrc@hotmail.co.uk",
+    "firstname": "Sabastian",
+    "lastname": "Cox",
+    "objectId": "U4IpoGXw5T",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "3LKOUC17fE"
+    },
+    "updatedAt": "2015-10-09T14:04:00.857Z"
+  },
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "z2iZWHONTb"
+    ],
+    "createdAt": "2015-09-19T17:00:43.414Z",
+    "date_last_completed": "2015-10-06T19:08:08.302Z",
+    "email": "amaritz18@gmail.com",
+    "firstname": "Anna",
+    "lastname": "Maritz",
+    "objectId": "UN0dC9ciy3",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.868Z"
+  },
+  {
+    "completed_cds": [
+      "poXrQxuYrn"
+    ],
+    "createdAt": "2015-09-19T17:00:43.420Z",
+    "date_last_completed": "2015-09-25T18:54:07.809Z",
+    "email": "mo.odujinrin@gmail.com",
+    "firstname": "Moraiyo",
+    "lastname": "Odujinrin",
+    "objectId": "XVlSuIh7w2",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "pAMJgmz7nJ"
+    },
+    "updatedAt": "2015-10-09T14:04:00.612Z"
+  },
+  {
+    "completed_cds": [
+      "55fH46Ihxf",
+      "xt5DyqVpe4"
+    ],
+    "createdAt": "2015-10-01T02:02:03.318Z",
+    "date_last_completed": "2015-10-07T21:16:49.117Z",
+    "email": "tbiimoses@gmail.com",
+    "firstname": "Adetobi",
+    "lastname": "Moses",
+    "objectId": "Xoofwx7BUj",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.958Z"
+  },
+  {
+    "completed_cds": [
+      "5CRAKWB3Nr",
+      "6NmejqZ4eu"
+    ],
+    "createdAt": "2015-09-19T17:00:43.387Z",
+    "date_last_completed": "2015-10-04T09:49:27.941Z",
+    "email": "rozalieczesana@gmail.com",
+    "firstname": "Rosalie",
+    "lastname": "Czesana",
+    "objectId": "XyB84GxZBb",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "xt5DyqVpe4"
+    },
+    "updatedAt": "2015-10-09T14:04:00.452Z"
+  },
+  {
+    "completed_cds": [
+      "6NmejqZ4eu",
+      "55fH46Ihxf"
+    ],
+    "createdAt": "2015-09-21T13:23:54.485Z",
+    "date_last_completed": "2015-10-09T02:38:26.487Z",
+    "email": "llegro42895@hotmail",
+    "firstname": "Luis",
+    "lastname": "Legro",
+    "objectId": "YNBtVSupT6",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.820Z"
+  },
+  {
+    "completed_cds": [
+      "xt5DyqVpe4",
+      "5n6bNbCWtV",
+      "GFVYCdK8mS"
+    ],
+    "createdAt": "2015-09-19T17:00:43.369Z",
+    "date_last_completed": "2015-10-04T03:20:50.200Z",
+    "email": "reva.abrol@gmail.com",
+    "firstname": "Reva",
+    "lastname": "Abrol",
+    "objectId": "aemfJd4d33",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.344Z"
+  },
+  {
+    "completed_cds": [
+      "9tRoCjmjnJ",
+      "GFVYCdK8mS",
+      "pAMJgmz7nJ"
+    ],
+    "createdAt": "2015-09-19T17:00:43.436Z",
+    "date_last_completed": "2015-10-06T00:40:15.687Z",
+    "email": "oliviawicki@yahoo.com",
+    "firstname": "Olivia",
+    "lastname": "Wicki",
+    "objectId": "aiFB8UBPlp",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.730Z"
+  },
+  {
+    "completed_cds": [
+      "kSGEshJdTB",
+      "5n6bNbCWtV"
+    ],
+    "createdAt": "2015-09-19T17:00:43.433Z",
+    "date_last_completed": "2015-10-06T18:41:09.653Z",
+    "email": "wilglorytanjong@gmail.com",
+    "firstname": "Wilglory",
+    "lastname": "Tanjong",
+    "objectId": "awMgpjZI4i",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "ASabXj3jqQ"
+    },
+    "updatedAt": "2015-10-09T14:04:00.719Z"
+  },
+  {
+    "completed_cds": [
+      "9tRoCjmjnJ",
+      "kcwZSbfWQv",
+      "5CRAKWB3Nr"
+    ],
+    "createdAt": "2015-09-19T17:00:43.435Z",
+    "date_last_completed": "2015-10-07T04:25:35.090Z",
+    "email": "lydia.weintraub@gmail.com",
+    "firstname": "Lydia",
+    "lastname": "Weintraub",
+    "objectId": "cCORD4pTj3",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.728Z"
+  },
+  {
+    "completed_cds": [
+      "xt5DyqVpe4",
+      "eOOl5GK2aQ"
+    ],
+    "createdAt": "2015-09-19T17:00:43.424Z",
+    "date_last_completed": "2015-10-05T19:29:03.361Z",
+    "email": "ashwinprasanna1@gmail.com",
+    "firstname": "Ashwin",
+    "lastname": "Prasanna",
+    "objectId": "chihoWvNsW",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "55fH46Ihxf"
+    },
+    "updatedAt": "2015-10-09T14:04:00.633Z"
+  },
+  {
+    "completed_cds": [
+      "poXrQxuYrn",
+      "55fH46Ihxf"
+    ],
+    "createdAt": "2015-09-25T18:56:32.878Z",
+    "date_last_completed": "2015-10-09T02:29:40.954Z",
+    "email": "joychen314@gmail.com",
+    "firstname": "Joy",
+    "lastname": "Chen",
+    "objectId": "cjtOossneS",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.933Z"
+  },
+  {
+    "completed_cds": [
+      "pAMJgmz7nJ",
+      "55fH46Ihxf",
+      "xt5DyqVpe4"
+    ],
+    "createdAt": "2015-09-19T17:00:43.419Z",
+    "date_last_completed": "2015-10-08T23:47:38.323Z",
+    "email": "el.ugonna@gmail.com",
+    "firstname": "Ugonna",
+    "lastname": "Nwabueze",
+    "objectId": "f9p9mh6aYe",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.637Z"
+  },
+  {
+    "completed_cds": [
+      "BXD5r0f12R"
+    ],
+    "createdAt": "2015-09-19T17:00:43.429Z",
+    "date_last_completed": "2015-10-07T16:57:14.334Z",
+    "email": "peytonsmith979@gmail.com",
+    "firstname": "Peyton",
+    "lastname": "Smith",
+    "objectId": "fnvInk0b1X",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "pAMJgmz7nJ"
+    },
+    "updatedAt": "2015-10-09T14:04:00.686Z"
+  },
+  {
+    "completed_cds": [
+      "pAMJgmz7nJ",
+      "kcwZSbfWQv"
+    ],
+    "createdAt": "2015-09-19T17:00:43.418Z",
+    "date_last_completed": "2015-10-07T03:33:39.737Z",
+    "email": "talya.nevins@gmail.com",
+    "firstname": "Talya",
+    "lastname": "Nevins",
+    "objectId": "jNdvL54e0X",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.609Z"
+  },
+  {
+    "completed_cds": [
+      "3LKOUC17fE",
+      "pAMJgmz7nJ",
+      "poXrQxuYrn"
+    ],
+    "createdAt": "2015-09-19T17:00:43.384Z",
+    "date_last_completed": "2015-10-08T13:26:46.317Z",
+    "email": "avanthi.m.cole@gmail.com",
+    "firstname": "Avanthi",
+    "lastname": "Cole",
+    "objectId": "krw0sjctDe",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.423Z"
+  },
+  {
+    "completed_cds": [
+      "kcwZSbfWQv",
+      "dKDrhW55r4",
+      "poXrQxuYrn"
+    ],
+    "createdAt": "2015-09-21T13:20:19.505Z",
+    "date_last_completed": "2015-10-06T02:35:17.455Z",
+    "email": "erinlynch.ehl@gmail.com",
+    "firstname": "Erin",
+    "lastname": "Lynch",
+    "objectId": "nJb05s5Tdt",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.828Z"
+  },
+  {
+    "completed_cds": [
+      "5n6bNbCWtV",
+      "3LKOUC17fE",
+      "poXrQxuYrn"
+    ],
+    "createdAt": "2015-09-19T17:00:43.390Z",
+    "date_last_completed": "2015-10-05T19:10:59.412Z",
+    "email": "alexander.fish5@gmail.com",
+    "firstname": "Alexander",
+    "lastname": "Fish",
+    "objectId": "psrcYsjgsY",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.500Z"
+  },
+  {
+    "completed_cds": [],
+    "createdAt": "2015-09-19T17:00:43.388Z",
+    "date_last_completed": null,
+    "email": "zdegiulio@gmail.com",
+    "firstname": "Zacharia",
+    "lastname": "Degiulio",
+    "objectId": "qHMnDVJ6CS",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "6NmejqZ4eu"
+    },
+    "updatedAt": "2015-10-09T14:04:00.464Z"
+  },
+  {
+    "completed_cds": [
+      "GFVYCdK8mS",
+      "xt5DyqVpe4"
+    ],
+    "createdAt": "2015-09-19T21:17:59.432Z",
+    "date_last_completed": "2015-10-06T14:38:56.678Z",
+    "email": "samuelkdavies@hotmail.com",
+    "firstname": "Samuel",
+    "lastname": "Davies",
+    "objectId": "qJbJPzwwwb",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "poXrQxuYrn"
+    },
+    "updatedAt": "2015-10-09T14:04:00.769Z"
+  },
+  {
+    "completed_cds": [
+      "z2iZWHONTb",
+      "kldlMuEeNt",
+      "GFVYCdK8mS"
+    ],
+    "createdAt": "2015-09-19T17:00:43.383Z",
+    "date_last_completed": "2015-10-04T02:54:31.281Z",
+    "email": "leilavc@gmail.com",
+    "firstname": "Leila",
+    "lastname": "Clark",
+    "objectId": "qodZHt0pm4",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.456Z"
+  },
+  {
+    "completed_cds": [
+      "z2iZWHONTb",
+      "kldlMuEeNt"
+    ],
+    "createdAt": "2015-10-03T20:32:30.595Z",
+    "date_last_completed": "2015-10-08T19:01:11.656Z",
+    "email": "carolinasalazarcash@gmail.com",
+    "firstname": "Carolina",
+    "lastname": "Salazar",
+    "objectId": "s1Fv8LHOaQ",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.978Z"
+  },
+  {
+    "completed_cds": [],
+    "createdAt": "2015-09-19T17:00:43.434Z",
+    "date_last_completed": null,
+    "email": "nehemiahteferi@gmail.com",
+    "firstname": "Nehemiah",
+    "lastname": "Teferi",
+    "objectId": "sWcN2o4Ask",
+    "pending_member": {
+      "__type": "Pointer",
+      "className": "Member",
+      "objectId": "3LKOUC17fE"
+    },
+    "updatedAt": "2015-10-09T14:04:00.888Z"
+  },
+  {
+    "completed_cds": [
+      "5n6bNbCWtV",
+      "kcwZSbfWQv"
+    ],
+    "createdAt": "2015-09-21T00:54:06.303Z",
+    "date_last_completed": "2015-10-06T04:46:26.473Z",
+    "email": "angelica.maria.vielma@gmail.com",
+    "firstname": "Angelica",
+    "lastname": "Vielma",
+    "objectId": "sYH8uLg3cz",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.814Z"
+  },
+  {
+    "completed_cds": [
+      "kldlMuEeNt",
+      "kcwZSbfWQv"
+    ],
+    "createdAt": "2015-10-03T20:33:16.570Z",
+    "date_last_completed": "2015-10-08T03:02:46.984Z",
+    "email": "logan.j.blaine@gmail.com",
+    "firstname": "Logan",
+    "lastname": "Blaine",
+    "objectId": "sr4qoZDxfy",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:01.011Z"
+  },
+  {
+    "completed_cds": [
+      "kSGEshJdTB",
+      "SmBf5on1pc",
+      "kldlMuEeNt"
+    ],
+    "createdAt": "2015-09-19T17:00:43.408Z",
+    "date_last_completed": "2015-10-08T02:13:55.884Z",
+    "email": "nkrell12@gmail.com",
+    "firstname": "Nico",
+    "lastname": "Krell",
+    "objectId": "zydDj0wlxO",
+    "pending_member": null,
+    "updatedAt": "2015-10-09T14:04:00.564Z"
+  }
+]
